@@ -1,8 +1,6 @@
-# F5 Agility 2022 Application Delivery Controller Solutions
+# F5 Appworld 2026 AI Solutions
 
-https://github.com/f5devcentral/f5-agility-labs-adc
+https://github.com/f5devcentral/f5-appworld-labs-ai
 
-http://f5-agility-labs-adc.readthedocs.io/en/latest/
-
-git clone https://github.com/f5devcentral/f5-agility-labs-adc.git
+git clone https://github.com/f5devcentral/ff5-appworld-labs-ai.git
 

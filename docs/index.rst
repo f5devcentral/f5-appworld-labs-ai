@@ -1,10 +1,10 @@
-F5 Application Delivery Controller Solutions
-============================================
+F5 AI Solutions
+===============
 
 Welcome
 -------
 
-Welcome to the |classbold| lab at F5 Agility |year|
+Welcome to the |classbold| lab at F5 AppWorld |year|
 
 |repoinfo|
 

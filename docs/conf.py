@@ -5,10 +5,10 @@
 # ------------
 #
 # REQUIRED: Your class/lab name
-classname = "F5 Application Delivery Controller Solutions"
+classname = "F5 AI Solutions"
 
 # OPTIONAL: The URL to the GitHub Repository for this class
-github_repo = "https://github.com/f5devcentral/f5-agility-labs-adc"
+github_repo = "https://github.com/f5devcentral/f5-appworld-labs-ai"
 
 #
 # END CONFIG
