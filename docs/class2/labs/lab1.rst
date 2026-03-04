@@ -22,6 +22,7 @@ Click the radio button to the left of CalypsoAI Chat and click the Create button
 .. image:: ../_static/lab1-create-project.png
    :align: center
    :alt: Create Project
+   :width: 800px
 
 Create the new chat project with the following details:
 
