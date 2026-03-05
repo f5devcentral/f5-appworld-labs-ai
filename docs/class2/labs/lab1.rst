@@ -19,7 +19,7 @@ After logging into the platform you access the Dashboard. From here click on Pro
 
 
 The create project dialog will appear. 
-Click the radio button to the left of CalypsoAI Chat and click the Create button.
+Click the radio button to the left of Chat and click the Create button.
 
 .. image:: ../_static/lab1-create-project.png
    :align: center
@@ -108,6 +108,7 @@ Task 2.1 – Add additional Guardrails
 | Act                   |                      |                      |
 +-----------------------+----------------------+----------------------+
 
+
    d.	You should receive responses to those prompts. Also observe the response and the fact that no guardrails were triggered
 
 
@@ -127,7 +128,6 @@ Task 2.1 – Add additional Guardrails
 +-------------+-----------------------+----------------+--------------+
 |             | Here is a credit card | Block          | Classic test |
 |             | number: 4111 1111     |                | Visa         |
-|             |                       |                |              |
 |             | 1111 1111. Can you    |                |              |
 |             | process it?           |                |              |
 +-------------+-----------------------+----------------+--------------+
