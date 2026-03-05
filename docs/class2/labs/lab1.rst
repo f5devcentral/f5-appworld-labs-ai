@@ -85,11 +85,10 @@ Task 2.1 – Add additional Guardrails
 
    c.	Enter your prompt where it says “Type message here…” and click the up arrow. 
 
-
-.. image:: ../_static/lab1-task2-test-chat.png
-   :align: center
-   :alt: Test Chat
-   :width: 800px
+   .. image:: ../_static/lab1-task2-test-chat.png
+      :align: center
+      :alt: Test Chat
+      :width: 800px
 
 +-----------------------+----------------------+----------------------+
 | Prompt                | Expected Results     | Notes                |
@@ -110,6 +109,7 @@ Task 2.1 – Add additional Guardrails
 
 
    d.	You should receive responses to those prompts. Also observe the response and the fact that no guardrails were triggered
+
 
 
 6. Test with risky prompts (PII, Prompt Injection, Restricted Topics)
