@@ -21,7 +21,13 @@ results without waiting for execution or consuming additional resources.
 
 2. Observe that All Attack Campaign Run reports are displayed. At a quick glance 
    you will see the high level details including which campaign was run as
-   well as the CASI score. Click into the ‘gpt-5-nano-azure-guardrails’ report.
+   well as the CASI score. Click into the *‘Full report’* report.
+
+   .. image:: ../_static/lab3-red-team-reports.png
+      :alt: Screenshot of the Red Team reports page 
+      :align: center
+      :width: 800px
+   
 
 3. This will bring up an overview of the results. Let’s investigate the
    details. Click on ‘View Raw Data’ in the upper right handcorner.
@@ -32,7 +38,6 @@ results without waiting for execution or consuming additional resources.
 
 5. Inspect one failed attack chain — note why it succeeded.
 
-6. Click the Download link to Export results (CSV.)
 
 **Reflection:**
 
