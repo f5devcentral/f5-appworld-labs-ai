@@ -24,9 +24,9 @@ results without waiting for execution or consuming additional resources.
    well as the CASI score. Click into the *‘Full report’* report.
 
    .. image:: ../_static/lab3-red-team-reports.png
-   :alt: Screenshot of the Red Team reports page 
-   :align: center
-   :width: 800px
+      :alt: Screenshot of the Red Team reports page 
+      :align: center
+      :width: 800px
    
 
 3. This will bring up an overview of the results. Let’s investigate the
