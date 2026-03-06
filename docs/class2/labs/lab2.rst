@@ -172,4 +172,4 @@ discarded, with the masked data being stored.
 4. Test the different modes through the Chat Tab to observe the
    outcomes.
 
-5. Look at the Log messages to view the behavior of the scanner
+5. Look at the Log messages to view the behavior of the guardrail.

@@ -18,6 +18,7 @@ minutes to several hours to complete and incur model usage costs. 
 
   a. Click on *View Agentic fingerprints* 
 
+
   .. image:: ../_static/lab4-red-team-agentic-attack.png
      :alt: Example of an agentic Red Team attack
      :align: center
