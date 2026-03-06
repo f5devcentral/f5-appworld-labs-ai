@@ -2,11 +2,9 @@ Conclusion
 ==========
 
 Thank you for taking the time to complete this lab. Through these hands-on exercises, you explored 
-how F5 BIG-IP can act as an intelligent application delivery control point for S3-compatible object 
-storage. You implemented high availability and load distribution, applied fine-grained policy controls, 
-migrated S3 buckets between clusters, and used health-aware routing to steer traffic based on node and 
-cluster conditions. Together, these tasks demonstrate how application delivery principles improve the 
-resilience, security, and operational flexibility of modern object storage environments.
+how F5 AI Guardrails and Red Team can be used to enhance the security of AI applications. 
+You learned how to create and test custom guardrails, review Red Team campaign results, 
+and understand the implications of different attack techniques.
 
 +----------------------------------------------------------------------------------------------+
 | F5 Networks, Inc. \| f5.com                                                                  |
