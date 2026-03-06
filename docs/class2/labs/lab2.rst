@@ -105,7 +105,7 @@ Task 1 – Create GenAI Guardrail
       :width: 800px
 
 
-Task 2 – Keyword scanners
+Task 2 – Keyword guardrail
 
 1. Click Playground from the left navigation
 
