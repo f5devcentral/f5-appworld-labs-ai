@@ -33,8 +33,8 @@ results without waiting for execution or consuming additional resources.
    details. Click on ‘View Raw Data’ in the upper right handcorner.
 
 4. Here you will see all the details of every attack prompt that was
-   sent against the target. Let’s just filter on the successful attacks. Click on *Filter*,
-   and select *True*.
+   sent against the target. Let’s just filter on the successful attacks. Click
+   on any of the options to *Filter*. Example, click on *Vulnerable* and select *True*.
 
 5. Inspect one failed attack chain — note why it succeeded.
 
